@@ -2,15 +2,6 @@
 
 This template demonstrates how to apply a Support Vector Machine (SVM) classifier to a binary classification problem using Python and scikit-learn. The code includes data preprocessing, model training, evaluation, and hyperparameter tuning.
 
-## Prerequisites
-- Install required libraries: `scikit-learn`, `numpy`, `pandas`
-- Run the following command to install dependencies:
-  ```bash
-  pip install scikit-learn numpy pandas
-  ```
-
-## Python Code
-
 ```python
 # Import necessary libraries
 import numpy as np
