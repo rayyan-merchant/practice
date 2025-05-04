@@ -1,0 +1,1001 @@
+Age,Salary,Experience,CreditScore,Gender,JobType,MaritalStatus,City,LoanApproved
+56,60001.780170086306,34,694,Male,Artist,Divorced,New York,1
+69,,50,786,Male,Doctor,Single,New York,0
+46,81830.3906945103,25,775,Male,Artist,Single,San Francisco,1
+32,50597.634832822696,8,816,Female,Artist,Single,Chicago,1
+60,6737.683463564987,38,483,Male,Engineer,Divorced,Chicago,0
+25,51263.01512509058,4,319,Male,Lawyer,Single,Chicago,0
+38,68921.95977299275,17,823,Male,Lawyer,Single,Austin,1
+56,36150.408472241994,37,828,Male,Engineer,Single,San Francisco,0
+36,35198.67216243145,13,446,Female,Engineer,Single,Chicago,0
+40,37394.15440490615,20,603,Male,Artist,Married,Austin,0
+28,33852.84785034307,9,527,Female,Teacher,Single,San Francisco,0
+28,42808.97429441009,6,401,Male,Artist,Married,San Francisco,0
+41,63639.4583952383,18,716,Female,Engineer,Single,Austin,1
+53,72894.99092619041,31,515,Female,Lawyer,Divorced,San Francisco,0
+57,13636.245140941995,34,706,Male,Artist,Married,Austin,0
+41,44323.180196338144,17,698,Male,Teacher,Married,Chicago,0
+20,54540.46991565099,0,798,Female,Artist,Married,Austin,0
+39,53040.17545077786,20,764,Female,Doctor,Married,San Francisco,1
+19,78499.09499934333,0,381,Male,Artist,Divorced,Chicago,0
+41,19839.59135626899,18,664,Female,Engineer,Single,Chicago,0
+61,11164.040979672507,40,462,Female,Lawyer,Married,New York,0
+47,80933.18786057385,26,347,Female,Lawyer,Divorced,New York,0
+55,,37,810,Male,Engineer,Married,San Francisco,0
+19,41429.42619570635,0,628,Female,Doctor,Single,Austin,0
+38,52573.98159601932,17,415,Female,Engineer,Married,Austin,0
+50,53648.264338416,32,636,Female,Artist,Divorced,San Francisco,1
+29,41067.18814496031,5,446,Male,Engineer,Single,Chicago,0
+39,52126.675560371514,15,622,Male,Engineer,Divorced,San Francisco,1
+61,55322.20061990179,40,742,Female,Doctor,Single,San Francisco,1
+42,80232.95392044238,20,312,Male,Artist,Single,Chicago,0
+66,64451.768334283115,43,793,Female,Teacher,Single,Austin,1
+44,76089.84710363112,24,586,Male,Teacher,Married,San Francisco,0
+59,29846.427744906585,37,413,Male,Lawyer,Divorced,Austin,0
+45,44792.04110573213,26,779,Female,Engineer,Divorced,San Francisco,0
+33,53633.70475897438,9,321,Male,Lawyer,Divorced,Chicago,0
+32,21183.488703005558,11,648,Male,Doctor,Single,Chicago,0
+64,67727.89007163921,43,619,Male,Teacher,Married,New York,1
+68,59633.14658466894,45,425,Female,Engineer,Single,Chicago,0
+61,44492.62220069204,42,576,Male,Doctor,Divorced,New York,0
+69,47249.984847488224,46,503,Male,Doctor,Married,San Francisco,0
+20,68808.00333235622,1,493,Female,Engineer,Married,Austin,0
+54,38068.43078544552,34,846,Male,Doctor,Married,Chicago,0
+68,,44,585,Male,Engineer,Divorced,Chicago,0
+24,46219.418951205684,3,356,Male,Engineer,Married,Chicago,0
+38,61339.940791653746,17,602,Male,Artist,Married,San Francisco,1
+26,,6,462,Male,Lawyer,Single,New York,0
+56,83497.90769976779,38,318,Female,Doctor,Single,San Francisco,0
+35,36689.11414838711,11,669,Female,Doctor,Married,Austin,0
+21,41400.760661345994,0,563,Male,Artist,Married,San Francisco,0
+42,27408.117834667533,22,412,Male,Artist,Single,Austin,0
+31,33548.64249456018,8,787,Male,Artist,Single,Chicago,0
+67,60696.92161541774,45,626,Female,Teacher,Single,Austin,1
+26,74002.45458297592,5,841,Female,Teacher,Divorced,Austin,1
+43,62397.21305540415,20,364,Male,Teacher,Divorced,New York,0
+19,49919.12750409701,0,591,Male,Engineer,Single,Austin,0
+37,36595.7824751592,14,324,Female,Doctor,Married,Austin,0
+45,63476.28007440725,23,848,Male,Lawyer,Single,San Francisco,1
+64,35770.97142221243,40,300,Female,Engineer,Divorced,Chicago,0
+24,29765.72398541361,3,848,Female,Doctor,Married,San Francisco,0
+61,45372.96000185143,41,440,Male,Doctor,Divorced,San Francisco,0
+25,19490.890746672558,3,487,Female,Artist,Married,Chicago,0
+64,29279.22688171627,43,427,Male,Artist,Divorced,Chicago,0
+52,78289.85503824231,29,500,Male,Engineer,Married,Austin,0
+31,26497.873633123967,7,426,Male,Artist,Married,Austin,0
+34,32177.77428431283,16,556,Male,Doctor,Married,New York,0
+53,51077.49361559997,29,846,Male,Artist,Married,San Francisco,1
+67,51858.55820045023,49,493,Male,Teacher,Divorced,Chicago,0
+57,46480.63553931719,38,403,Female,Artist,Divorced,Austin,0
+21,19949.39376663327,0,834,Female,Doctor,Married,Chicago,0
+19,,0,564,Female,Engineer,Married,Austin,0
+23,43354.19900363005,5,683,Female,Lawyer,Divorced,New York,0
+59,68306.74283262351,39,559,Male,Artist,Married,New York,0
+21,,0,713,Female,Doctor,Married,Chicago,0
+46,64737.41508710865,26,657,Female,Lawyer,Married,New York,1
+35,69441.25173619152,11,374,Female,Lawyer,Single,Chicago,0
+43,42995.8658636927,23,654,Male,Teacher,Married,Austin,0
+61,63206.75291158471,43,487,Female,Lawyer,Single,San Francisco,0
+51,30071.82982825404,30,589,Male,Doctor,Married,New York,0
+27,,4,344,Female,Doctor,Divorced,Austin,0
+53,68333.4156253226,31,382,Male,Artist,Single,San Francisco,0
+31,57777.392689461856,13,422,Male,Artist,Single,San Francisco,0
+48,86093.3588427986,30,657,Female,Artist,Married,San Francisco,1
+65,58615.369884367334,42,827,Male,Lawyer,Married,Austin,1
+32,44520.93121088749,11,365,Male,Lawyer,Single,Austin,0
+25,92613.29589502246,4,674,Female,Teacher,Divorced,Chicago,1
+31,74505.51526021326,7,461,Female,Artist,Divorced,San Francisco,0
+40,25956.386573024047,20,679,Female,Engineer,Married,San Francisco,0
+57,38237.54592607528,33,657,Male,Teacher,Divorced,San Francisco,0
+38,34427.628394380146,15,487,Male,Engineer,Divorced,Chicago,0
+33,59684.444067635835,9,621,Male,Lawyer,Married,San Francisco,1
+62,58567.37055225183,39,749,Female,Teacher,Divorced,Austin,1
+35,58451.778985932484,14,773,Male,Teacher,Married,San Francisco,1
+64,25551.358107515738,44,312,Male,Doctor,Single,New York,0
+41,40428.62680092426,17,483,Male,Lawyer,Married,Austin,0
+43,47760.72117914534,25,410,Male,Lawyer,Single,Chicago,0
+42,22671.19176018917,23,807,Male,Teacher,Single,San Francisco,0
+62,36922.58350163164,40,589,Male,Lawyer,Divorced,New York,0
+58,70346.50565248598,40,594,Male,Teacher,Divorced,Chicago,0
+46,26688.860030456173,25,750,Female,Doctor,Divorced,Chicago,0
+32,,10,514,Female,Teacher,Married,Austin,0
+62,66367.23638803253,43,326,Female,Lawyer,Divorced,Chicago,0
+18,45638.94170293279,0,530,Male,Lawyer,Single,Chicago,0
+42,40266.90500948473,22,620,Male,Teacher,Divorced,Chicago,0
+24,,2,532,Female,Teacher,Divorced,Chicago,0
+26,38183.89758656554,6,736,Male,Teacher,Married,San Francisco,0
+41,38930.030750808146,23,832,Female,Artist,Married,San Francisco,0
+18,49641.97393992907,0,702,Male,Lawyer,Single,San Francisco,0
+61,18046.496063196228,38,352,Male,Lawyer,Married,San Francisco,0
+25,28250.366023974406,2,612,Female,Artist,Divorced,New York,0
+41,45265.08126497775,19,580,Female,Teacher,Married,San Francisco,0
+28,57135.44048318899,5,330,Female,Doctor,Single,Chicago,0
+68,37976.39092881982,50,636,Female,Teacher,Divorced,San Francisco,0
+34,47035.84282967476,14,482,Female,Teacher,Single,San Francisco,0
+25,25798.10887793552,3,322,Male,Artist,Married,Austin,0
+52,63987.257784054804,32,843,Male,Lawyer,Married,Chicago,1
+52,53301.234943414725,30,745,Male,Teacher,Single,San Francisco,1
+50,54628.18853958826,30,373,Female,Lawyer,Divorced,San Francisco,0
+22,57323.75926977342,3,309,Female,Engineer,Married,San Francisco,0
+59,51171.91255242178,39,783,Female,Lawyer,Married,New York,1
+56,,33,755,Female,Doctor,Divorced,San Francisco,0
+58,66944.81823080462,39,459,Female,Doctor,Married,Austin,0
+45,52353.2172164116,25,313,Female,Teacher,Single,Chicago,0
+24,47514.208569898634,2,477,Male,Lawyer,Married,Chicago,0
+26,49870.18019119244,4,711,Male,Teacher,Married,San Francisco,1
+25,49550.5240026689,3,352,Male,Artist,Divorced,San Francisco,0
+29,47363.51594112032,8,707,Male,Doctor,Single,San Francisco,1
+51,56691.59543761861,33,321,Male,Teacher,Divorced,Chicago,0
+50,35962.09666816447,28,329,Female,Artist,Married,Chicago,0
+65,37058.134463895374,46,559,Female,Teacher,Married,New York,0
+40,58388.95534142954,18,504,Female,Lawyer,Divorced,Austin,0
+41,47821.40988908306,20,358,Female,Lawyer,Divorced,New York,0
+54,64570.896532146435,31,770,Female,Lawyer,Divorced,Austin,1
+52,56133.18500947795,33,765,Female,Lawyer,Single,New York,1
+61,41710.58134885652,40,311,Male,Engineer,Married,Chicago,0
+57,58626.44544693012,34,589,Female,Artist,Divorced,New York,0
+39,67957.86436938404,15,653,Female,Artist,Married,Austin,1
+44,56704.693341818805,20,374,Female,Lawyer,Single,San Francisco,0
+52,59983.774146001946,33,740,Female,Engineer,Single,Austin,1
+18,47423.43724094895,0,540,Male,Lawyer,Single,San Francisco,0
+52,64895.59824320754,34,453,Male,Engineer,Single,Chicago,0
+54,41289.643776055345,36,395,Female,Lawyer,Married,Austin,0
+64,55078.145386107746,43,593,Male,Doctor,Single,New York,0
+31,88542.592286539,8,508,Male,Doctor,Single,Austin,0
+20,58083.215840384895,2,642,Female,Teacher,Divorced,San Francisco,0
+18,43689.331541121974,0,387,Female,Lawyer,Single,Chicago,0
+22,43650.616374629004,0,689,Female,Artist,Divorced,New York,0
+43,48929.874540644836,22,624,Female,Teacher,Single,Austin,1
+31,62768.68672594116,10,456,Female,Doctor,Single,San Francisco,0
+56,52186.66263751073,35,436,Male,Lawyer,Divorced,New York,0
+44,40272.08280142405,26,727,Female,Teacher,Single,Chicago,0
+26,40245.54510816965,2,751,Female,Lawyer,Married,New York,0
+32,52280.73996534471,11,440,Female,Doctor,Married,Chicago,0
+32,50635.92480108186,14,382,Male,Teacher,Single,New York,0
+43,56824.642536785315,22,476,Female,Doctor,Married,Austin,0
+59,63762.34843677342,37,497,Female,Engineer,Divorced,San Francisco,0
+30,90910.39553614249,7,720,Female,Doctor,Single,Austin,1
+68,28069.497248485994,47,700,Male,Lawyer,Single,Austin,0
+49,60302.93190929662,30,770,Female,Artist,Divorced,Chicago,1
+56,51474.61562582435,33,517,Female,Doctor,Divorced,Chicago,0
+66,22331.356533341175,43,474,Female,Artist,Divorced,Chicago,0
+69,68742.96085477591,48,322,Male,Engineer,Single,Austin,0
+49,56317.59839872921,25,534,Female,Teacher,Divorced,New York,0
+21,61997.094392302344,1,312,Female,Teacher,Divorced,New York,0
+47,24508.71582353476,23,400,Female,Artist,Married,Austin,0
+54,46693.74608752687,33,835,Male,Teacher,Married,Austin,1
+40,33812.04582658556,17,822,Female,Doctor,Single,San Francisco,0
+56,82446.51414020918,37,751,Female,Artist,Married,Chicago,1
+62,67168.25518616571,39,730,Female,Lawyer,Married,Chicago,1
+32,39785.48325071807,8,832,Male,Doctor,Divorced,Austin,0
+60,26950.416485755966,41,592,Male,Doctor,Divorced,Austin,0
+46,52910.82599575632,28,400,Female,Doctor,Married,New York,0
+53,66386.3300344154,31,801,Male,Lawyer,Married,Austin,1
+30,23974.19591846106,7,603,Male,Engineer,Married,New York,0
+49,36023.37993510246,28,839,Male,Teacher,Single,Austin,0
+24,33416.22936479062,6,654,Female,Artist,Single,San Francisco,0
+68,63004.19248865881,46,602,Female,Engineer,Single,San Francisco,1
+39,44452.563671832315,18,795,Male,Artist,Married,New York,0
+45,45080.95216433742,25,526,Male,Teacher,Married,Chicago,0
+19,52619.82020958451,0,535,Male,Lawyer,Single,San Francisco,0
+59,36825.78781506479,40,754,Female,Doctor,Single,New York,0
+62,28344.698949086527,43,312,Female,Doctor,Married,Austin,0
+23,70545.27743540428,3,509,Male,Lawyer,Divorced,Austin,0
+45,71937.28562719391,27,696,Male,Engineer,Single,New York,1
+45,52693.73689194768,23,399,Male,Engineer,Married,Chicago,0
+61,53782.332585014294,40,330,Male,Artist,Married,New York,0
+61,68915.20964870011,42,827,Female,Lawyer,Divorced,New York,1
+37,52349.8033490561,19,628,Male,Engineer,Married,San Francisco,1
+47,,27,465,Female,Lawyer,Married,New York,0
+28,50590.08690166195,4,758,Male,Teacher,Single,New York,1
+45,70897.52955751208,22,399,Male,Doctor,Single,Austin,0
+42,50799.82502643209,18,472,Male,Doctor,Divorced,San Francisco,0
+56,39959.26198019671,32,461,Male,Doctor,Divorced,Austin,0
+50,,31,562,Male,Lawyer,Married,Austin,0
+18,59843.34706303646,0,573,Female,Lawyer,Single,Chicago,0
+44,58043.80242358548,23,302,Male,Artist,Divorced,Chicago,0
+69,58292.35922107414,45,327,Male,Doctor,Divorced,San Francisco,0
+30,37599.834812998546,6,625,Male,Artist,Divorced,San Francisco,0
+58,,36,448,Female,Doctor,Married,Chicago,0
+20,50426.98908818434,1,839,Female,Artist,Single,Chicago,0
+56,39323.13248795817,37,787,Female,Artist,Divorced,Chicago,0
+23,,2,737,Female,Teacher,Single,Chicago,0
+25,43195.41726624854,2,364,Male,Artist,Divorced,Chicago,0
+44,26385.539771666703,26,655,Male,Lawyer,Divorced,Austin,0
+26,34990.96428334517,4,832,Male,Artist,Single,San Francisco,0
+54,47275.44600429376,35,551,Female,Doctor,Single,Austin,0
+50,58674.53423166918,28,534,Male,Artist,Single,Austin,0
+68,37038.950718678636,49,526,Male,Engineer,Married,New York,0
+59,46390.06309343698,37,824,Female,Doctor,Divorced,Austin,1
+61,31750.89152505413,41,612,Female,Engineer,Married,Chicago,0
+41,64730.493743597166,17,348,Female,Doctor,Single,Chicago,0
+32,75759.96670933327,13,417,Male,Lawyer,Divorced,New York,0
+49,74139.23786732482,27,353,Male,Lawyer,Married,New York,0
+49,64474.69325729206,31,343,Female,Lawyer,Divorced,New York,0
+41,62937.64935680392,21,352,Male,Engineer,Married,New York,0
+58,18921.80713395196,38,824,Female,Teacher,Single,New York,0
+69,52657.598483301575,51,401,Female,Doctor,Married,Austin,0
+66,42558.61064510138,44,697,Male,Lawyer,Divorced,New York,0
+66,63206.99541567352,45,437,Female,Doctor,Divorced,Austin,0
+69,11936.031864780067,51,686,Female,Engineer,Divorced,San Francisco,0
+29,52894.515541552675,7,410,Female,Teacher,Divorced,New York,0
+56,46783.34324251396,38,316,Male,Engineer,Single,New York,0
+19,66776.44899397106,1,481,Female,Doctor,Married,Austin,0
+20,73219.80580512108,1,835,Female,Teacher,Single,San Francisco,0
+66,36067.30974480847,44,840,Female,Teacher,Single,Austin,0
+54,36744.343461547774,33,470,Female,Engineer,Single,Austin,0
+66,53457.449318175706,42,708,Female,Lawyer,Divorced,New York,1
+34,76006.44037282313,15,677,Female,Doctor,Divorced,Chicago,1
+66,50902.170159245245,48,487,Female,Artist,Divorced,Chicago,0
+19,30812.578769685042,0,529,Male,Artist,Married,Austin,0
+19,,0,418,Male,Engineer,Divorced,New York,0
+45,53039.962466951925,21,455,Female,Doctor,Married,San Francisco,0
+40,53603.036428459345,22,764,Male,Doctor,Divorced,Chicago,1
+54,39438.6854661144,36,403,Male,Engineer,Divorced,San Francisco,0
+49,40613.13959330567,27,801,Female,Doctor,Single,Chicago,0
+50,35276.48008165402,28,474,Male,Lawyer,Single,New York,0
+18,67117.56775780693,0,720,Female,Engineer,Single,Austin,0
+36,37478.37231059915,15,433,Female,Lawyer,Married,San Francisco,0
+19,,0,690,Female,Doctor,Married,San Francisco,0
+61,42601.20625214071,41,800,Female,Engineer,Divorced,Austin,0
+43,25910.64128726913,25,332,Female,Doctor,Married,San Francisco,0
+49,37048.770427732765,25,354,Male,Engineer,Divorced,Chicago,0
+23,68422.06398929807,0,818,Female,Doctor,Married,Austin,0
+49,31860.68237313908,31,311,Male,Lawyer,Married,Chicago,0
+21,35545.365472604484,3,827,Female,Lawyer,Married,Chicago,0
+28,30011.813393311113,9,672,Female,Doctor,Single,New York,0
+34,48640.826596531086,11,783,Female,Engineer,Married,Chicago,1
+55,78282.15081899436,32,527,Male,Artist,Single,New York,0
+41,48009.586677093925,18,606,Female,Lawyer,Single,San Francisco,1
+22,51001.431880315846,3,756,Female,Lawyer,Married,San Francisco,1
+69,38068.29146199517,51,459,Female,Artist,Divorced,New York,0
+51,49075.729328115915,32,630,Female,Doctor,Divorced,Chicago,1
+23,68435.75459521424,1,524,Male,Engineer,Divorced,Austin,0
+39,52143.6408145726,17,803,Female,Doctor,Married,Austin,1
+28,81976.55123093245,9,755,Male,Teacher,Divorced,New York,1
+65,68892.19568458537,42,344,Female,Lawyer,Single,San Francisco,0
+33,48705.254818326,15,513,Male,Teacher,Divorced,San Francisco,0
+50,48413.18186611827,31,358,Male,Lawyer,Married,Austin,0
+26,74463.84706435447,7,494,Female,Lawyer,Divorced,New York,0
+23,52059.88363782843,4,788,Female,Teacher,Single,Austin,1
+33,71133.82340407584,13,456,Male,Teacher,Married,Chicago,0
+46,80043.6101019,24,525,Female,Doctor,Divorced,Chicago,0
+20,46936.70948263836,0,711,Female,Teacher,Married,New York,0
+37,55279.33048902523,14,504,Female,Doctor,Married,New York,0
+53,64700.06276849569,32,378,Male,Doctor,Married,Chicago,0
+36,61512.500585337795,12,423,Female,Doctor,Divorced,San Francisco,0
+43,61407.36099380752,20,770,Female,Lawyer,Married,New York,1
+20,29997.892592333978,0,517,Female,Lawyer,Divorced,Chicago,0
+36,37273.74907757301,16,815,Male,Teacher,Single,Chicago,0
+37,42570.994685882186,18,403,Female,Lawyer,Divorced,San Francisco,0
+49,68216.31205203015,29,692,Male,Teacher,Single,San Francisco,1
+24,31469.37639309671,4,733,Female,Lawyer,Divorced,San Francisco,0
+69,72848.40060768259,45,630,Male,Engineer,Married,San Francisco,1
+58,61697.51171118025,40,442,Female,Engineer,Divorced,Austin,0
+50,67313.45337084161,26,839,Female,Teacher,Married,San Francisco,1
+57,36057.003841325015,35,577,Male,Lawyer,Single,Austin,0
+56,51084.53544035195,35,532,Male,Lawyer,Divorced,New York,0
+35,54484.14179196974,16,828,Male,Doctor,Married,Chicago,1
+57,53824.505030340406,33,389,Female,Artist,Single,Austin,0
+18,54434.86101270076,0,791,Female,Teacher,Single,New York,0
+28,45852.102794073326,5,498,Female,Artist,Divorced,New York,0
+45,52028.10621595489,24,661,Female,Artist,Single,Austin,1
+42,65503.459325977805,19,740,Male,Teacher,Married,New York,1
+67,32502.31537338665,43,325,Female,Lawyer,Single,New York,0
+40,73205.75178358104,18,324,Female,Teacher,Single,Austin,0
+48,,24,693,Female,Artist,Married,New York,0
+47,35521.971609750006,24,806,Female,Lawyer,Single,San Francisco,0
+59,55757.540651829826,38,600,Female,Engineer,Single,San Francisco,0
+52,63522.481642370665,31,638,Female,Teacher,Single,Chicago,1
+24,31470.60014171474,1,566,Female,Teacher,Single,New York,0
+33,50629.67650064902,13,760,Male,Lawyer,Married,Chicago,1
+43,48822.27048747491,21,755,Female,Engineer,Single,San Francisco,1
+65,40316.29186239658,47,659,Female,Engineer,Married,San Francisco,0
+69,51385.3525514602,50,367,Female,Lawyer,Single,San Francisco,0
+66,40995.701360558145,45,711,Female,Doctor,Single,New York,0
+19,70614.60603456106,0,790,Male,Teacher,Single,New York,0
+18,40600.33518008885,0,348,Male,Teacher,Single,San Francisco,0
+65,61879.68410019737,41,401,Male,Artist,Married,Chicago,0
+29,25169.204185697534,10,515,Male,Lawyer,Married,Chicago,0
+22,47572.85294225058,4,737,Male,Artist,Married,Austin,1
+54,50184.66736027038,31,458,Male,Artist,Divorced,San Francisco,0
+49,47085.63424076704,29,788,Female,Engineer,Single,Chicago,1
+26,,5,541,Male,Teacher,Single,San Francisco,0
+58,39987.27461982316,40,304,Male,Artist,Married,Chicago,0
+52,61318.11170022354,33,660,Female,Engineer,Divorced,Austin,1
+36,64991.8678264307,15,758,Male,Lawyer,Single,Austin,1
+65,48767.586712150245,45,547,Female,Artist,Married,San Francisco,0
+33,33550.43737967541,10,721,Female,Teacher,Single,Chicago,0
+20,76909.23997080242,0,314,Male,Artist,Single,New York,0
+37,36803.03850638179,16,421,Female,Lawyer,Married,Austin,0
+41,28108.66612275279,17,576,Male,Artist,Married,San Francisco,0
+50,19810.67125220345,32,752,Male,Teacher,Single,San Francisco,0
+41,51491.778453689905,21,689,Female,Engineer,Single,Chicago,1
+69,46738.75421727145,50,593,Female,Teacher,Married,San Francisco,0
+28,65464.349737195094,8,745,Male,Engineer,Single,Austin,1
+66,59166.26845168321,46,509,Female,Doctor,Single,San Francisco,0
+25,54353.01836877556,3,601,Female,Teacher,Married,San Francisco,1
+53,45929.49206805875,33,522,Male,Teacher,Single,New York,0
+55,66649.659082965,35,302,Male,Lawyer,Single,New York,0
+57,78010.84852628798,36,817,Female,Artist,Divorced,Austin,1
+37,65134.68798694856,18,392,Male,Engineer,Married,Chicago,0
+52,43047.02553726185,31,819,Male,Engineer,Divorced,New York,0
+65,61723.48330823262,44,727,Male,Lawyer,Divorced,Chicago,1
+42,43968.65411799178,24,792,Male,Lawyer,Divorced,Austin,0
+52,33423.990262100386,31,534,Male,Artist,Single,New York,0
+42,36514.41406817082,20,460,Male,Artist,Single,Chicago,0
+46,44627.32393793382,24,630,Male,Teacher,Divorced,New York,0
+35,51559.39518445316,11,632,Female,Doctor,Divorced,Austin,1
+63,80908.71728863189,45,349,Male,Artist,Divorced,Austin,0
+35,36774.65786582199,11,822,Female,Lawyer,Single,New York,0
+19,69852.32734536992,0,791,Female,Artist,Divorced,Chicago,0
+52,45241.10672461146,29,571,Female,Engineer,Divorced,San Francisco,0
+33,19754.225188319844,14,551,Male,Doctor,Married,San Francisco,0
+58,42414.10995604493,39,389,Male,Teacher,Married,New York,0
+53,67650.45489751536,32,745,Female,Engineer,Single,Chicago,1
+50,55170.04278993854,29,631,Male,Engineer,Married,San Francisco,1
+21,56066.76797995935,0,438,Female,Doctor,Married,Austin,0
+50,69927.5601326657,29,656,Male,Teacher,Married,Chicago,1
+31,34454.95566596408,12,573,Male,Lawyer,Single,San Francisco,0
+38,34223.74354861624,14,318,Female,Teacher,Married,Chicago,0
+65,16044.070860553642,45,610,Female,Artist,Single,New York,0
+37,63156.23106864177,15,453,Female,Engineer,Divorced,Chicago,0
+25,58437.26350444405,5,689,Male,Artist,Married,San Francisco,1
+24,,4,559,Female,Lawyer,Single,New York,0
+20,32254.83163914829,1,424,Male,Artist,Married,Chicago,0
+34,25936.265661202207,14,653,Male,Teacher,Divorced,Austin,0
+50,30205.725373500012,27,572,Male,Artist,Single,San Francisco,0
+65,36161.415914619436,47,544,Female,Lawyer,Single,New York,0
+29,73309.3836336928,8,749,Female,Lawyer,Single,Chicago,1
+68,65001.90085673753,50,546,Female,Lawyer,Divorced,Austin,0
+39,43126.6903906952,15,819,Male,Teacher,Divorced,San Francisco,0
+39,54488.779898899775,17,440,Male,Lawyer,Divorced,Austin,0
+63,39824.56630778392,42,661,Female,Engineer,Single,Chicago,0
+47,55464.19641172486,27,307,Male,Lawyer,Divorced,Chicago,0
+55,32928.56393387003,33,777,Male,Artist,Married,New York,0
+55,,34,651,Female,Artist,Divorced,Austin,0
+62,37254.4505362341,39,794,Female,Artist,Single,New York,0
+68,62088.72542814735,45,726,Female,Teacher,Married,San Francisco,1
+25,43588.65637708487,2,338,Male,Artist,Divorced,New York,0
+44,38148.86069602589,21,486,Male,Teacher,Married,San Francisco,0
+44,74194.95075874485,24,392,Male,Teacher,Married,Chicago,0
+51,52654.19277340648,33,385,Male,Lawyer,Single,Chicago,0
+38,45167.27943427164,17,343,Male,Engineer,Married,Austin,0
+47,61372.67462526896,27,436,Female,Lawyer,Married,San Francisco,0
+50,29900.13395637672,27,720,Male,Lawyer,Single,Chicago,0
+45,66602.95383890538,21,373,Male,Teacher,Single,Austin,0
+64,47908.32940387326,46,847,Male,Teacher,Single,Austin,1
+50,59011.81573502656,26,811,Female,Artist,Married,New York,1
+22,26781.898084653705,0,455,Female,Artist,Married,Austin,0
+65,44263.610628005066,41,554,Female,Lawyer,Married,Chicago,0
+36,50068.70209018226,14,470,Male,Doctor,Single,New York,0
+21,65454.48820427793,0,469,Female,Doctor,Divorced,San Francisco,0
+52,60206.165959062244,29,621,Female,Artist,Married,San Francisco,1
+66,44112.84443573875,44,755,Female,Doctor,Divorced,Chicago,0
+34,54769.21635985072,15,454,Male,Artist,Single,Chicago,0
+61,68848.53652590472,40,648,Female,Teacher,Married,New York,1
+45,47000.1727486616,24,750,Male,Lawyer,Divorced,New York,1
+47,,24,472,Male,Engineer,Married,Chicago,0
+46,21654.43035870631,27,309,Female,Lawyer,Married,Chicago,0
+63,45813.91496985785,39,564,Male,Artist,Married,San Francisco,0
+23,23905.594419732177,3,737,Female,Artist,Divorced,San Francisco,0
+52,48284.979814501894,28,546,Male,Lawyer,Single,San Francisco,0
+58,64822.0271486412,38,845,Female,Artist,Married,Chicago,1
+54,18205.40787429777,32,798,Female,Doctor,Single,Austin,0
+41,68513.13236931185,23,428,Female,Doctor,Single,Chicago,0
+46,45046.653100157026,26,626,Male,Artist,Divorced,Chicago,1
+66,49592.52699310091,48,703,Female,Artist,Divorced,San Francisco,1
+63,42463.70329792187,42,658,Male,Doctor,Single,Chicago,0
+48,24301.44676177011,30,316,Female,Artist,Married,New York,0
+52,38255.162385556396,31,573,Male,Artist,Divorced,Chicago,0
+50,81461.15102674227,31,415,Male,Lawyer,Married,Chicago,0
+69,33559.31755619822,50,390,Female,Engineer,Married,Chicago,0
+38,,15,381,Female,Doctor,Married,Chicago,0
+49,52119.36541110654,26,623,Female,Lawyer,Single,Austin,1
+40,48713.35227241526,18,413,Female,Engineer,Married,Chicago,0
+50,45150.05313806528,30,357,Female,Artist,Single,New York,0
+20,50216.71915028384,0,453,Male,Artist,Single,New York,0
+35,59663.03916044235,14,703,Female,Lawyer,Married,Chicago,1
+42,41192.54600322029,20,565,Female,Artist,Married,San Francisco,0
+59,52916.15312423925,41,614,Male,Teacher,Married,Austin,1
+48,65358.11993195006,27,340,Female,Lawyer,Married,Chicago,0
+20,35070.66999867807,0,404,Female,Engineer,Single,Chicago,0
+57,15167.279840920564,38,492,Male,Lawyer,Married,Chicago,0
+63,60062.12738143874,40,700,Female,Doctor,Married,San Francisco,1
+41,87544.43863404459,21,577,Female,Lawyer,Single,San Francisco,0
+67,49889.68019526777,46,653,Female,Artist,Divorced,San Francisco,1
+49,53028.983015989346,28,555,Male,Artist,Divorced,Austin,0
+64,45562.87350359014,46,398,Female,Teacher,Single,New York,0
+39,73820.91262265388,19,581,Male,Teacher,Divorced,Austin,0
+40,48833.646005827,21,702,Female,Teacher,Single,San Francisco,1
+19,47201.53759977597,0,408,Male,Engineer,Married,New York,0
+44,63662.95721403805,23,498,Female,Teacher,Married,New York,0
+59,42735.905567047674,38,602,Male,Engineer,Divorced,San Francisco,0
+19,30729.594483862184,1,626,Male,Teacher,Married,San Francisco,0
+43,63234.50569318541,21,453,Male,Engineer,Divorced,Austin,0
+34,41126.79188491782,15,704,Male,Lawyer,Divorced,San Francisco,0
+57,35368.09958485981,34,761,Male,Lawyer,Married,New York,0
+50,81500.7223785978,30,431,Male,Artist,Married,Chicago,0
+26,47321.04795165932,5,383,Female,Engineer,Divorced,San Francisco,0
+60,57413.391234459996,39,698,Female,Doctor,Married,San Francisco,1
+65,50442.92361511665,42,408,Male,Artist,Single,Austin,0
+56,36705.20764444507,37,520,Male,Lawyer,Married,Austin,0
+46,60341.50430032884,24,667,Male,Engineer,Married,San Francisco,1
+59,54718.68475680087,38,446,Male,Teacher,Single,New York,0
+43,40109.30252540101,24,411,Female,Doctor,Married,New York,0
+52,56497.85506784508,29,793,Male,Lawyer,Married,Chicago,1
+67,42285.34858804997,49,804,Female,Artist,Divorced,San Francisco,0
+42,33432.56959837205,20,774,Female,Engineer,Married,Austin,0
+41,31914.991184718154,21,570,Male,Doctor,Married,New York,0
+30,54050.87931444468,9,720,Male,Engineer,Single,Chicago,1
+24,44259.03605107334,5,666,Female,Teacher,Divorced,San Francisco,0
+53,72525.56028565942,35,579,Female,Artist,Divorced,New York,0
+62,49355.62829993065,42,582,Male,Engineer,Divorced,San Francisco,0
+37,38221.95059819627,13,339,Male,Lawyer,Married,San Francisco,0
+18,52367.26457965868,0,488,Male,Artist,Divorced,New York,0
+25,30585.990176380907,6,463,Female,Lawyer,Single,New York,0
+63,48738.031392129466,43,835,Female,Engineer,Divorced,New York,1
+33,54787.50164717413,15,835,Male,Artist,Single,San Francisco,1
+31,52935.08461452958,7,303,Female,Lawyer,Divorced,San Francisco,0
+29,69541.99895779637,6,589,Female,Teacher,Divorced,Chicago,0
+68,88962.75688766676,50,732,Male,Teacher,Single,Austin,1
+40,60070.96057011927,18,770,Male,Engineer,Divorced,San Francisco,1
+32,67681.9449167828,11,480,Female,Artist,Divorced,Austin,0
+45,88151.9398948586,25,547,Female,Doctor,Divorced,New York,0
+51,34906.61228275286,28,578,Male,Artist,Married,San Francisco,0
+19,51959.41113162513,0,553,Male,Teacher,Single,Chicago,0
+49,42830.052018700124,29,480,Male,Lawyer,Divorced,Chicago,0
+40,62639.86565391608,20,808,Male,Doctor,Single,Austin,1
+39,54074.28379214931,21,625,Male,Engineer,Single,New York,1
+68,37723.51520144099,47,656,Female,Doctor,Single,Austin,0
+42,50164.21724520567,20,690,Female,Engineer,Divorced,New York,1
+39,65703.84109483828,20,384,Female,Doctor,Divorced,Chicago,0
+39,30444.130534624004,20,616,Female,Engineer,Single,Austin,0
+66,38039.83166541532,46,511,Male,Engineer,Married,Chicago,0
+69,35790.87372437287,48,814,Male,Doctor,Single,Chicago,0
+59,54895.948332303655,35,683,Male,Doctor,Married,New York,1
+23,68607.7411942244,0,641,Female,Engineer,Single,Austin,0
+32,19853.98302040983,9,337,Female,Teacher,Single,Austin,0
+60,,42,810,Female,Doctor,Single,Chicago,0
+54,36136.689240872234,33,719,Male,Artist,Divorced,Chicago,0
+50,65081.04162244976,29,468,Female,Lawyer,Married,New York,0
+25,46445.47586643119,7,642,Male,Engineer,Married,San Francisco,1
+61,51960.10908616096,37,605,Male,Engineer,Single,San Francisco,1
+61,49979.9450719691,37,841,Male,Lawyer,Divorced,Chicago,1
+22,66863.28204784768,0,836,Male,Teacher,Divorced,San Francisco,0
+56,80729.47296196673,36,411,Male,Lawyer,Married,San Francisco,0
+21,32980.02005177838,0,710,Male,Doctor,Divorced,San Francisco,0
+23,35711.65823008022,4,505,Female,Lawyer,Married,San Francisco,0
+62,54822.4685383206,44,484,Male,Engineer,Married,Chicago,0
+49,37753.96477547122,25,681,Male,Lawyer,Married,San Francisco,0
+69,64003.75655600411,46,795,Female,Artist,Divorced,San Francisco,1
+47,66411.76188626506,23,678,Male,Doctor,Married,New York,1
+64,41801.35531630313,40,346,Female,Lawyer,Married,Chicago,0
+52,38546.941000377876,30,827,Female,Engineer,Single,Austin,0
+57,45878.314675209214,37,803,Female,Doctor,Married,Austin,1
+69,51560.27320944527,51,321,Male,Engineer,Married,New York,0
+33,54722.557848427874,11,512,Male,Teacher,Single,New York,0
+30,16207.744114262452,8,609,Female,Artist,Single,Chicago,0
+67,35488.16721724822,44,571,Male,Teacher,Divorced,Austin,0
+59,43938.50976694124,38,501,Male,Artist,Married,San Francisco,0
+47,38045.16002379669,24,331,Female,Lawyer,Divorced,New York,0
+36,7029.351614705702,15,742,Female,Doctor,Divorced,Austin,0
+34,21674.413019679596,13,461,Male,Lawyer,Single,Chicago,0
+36,30419.622116234495,18,553,Female,Artist,Divorced,San Francisco,0
+45,48270.736987201715,21,820,Female,Artist,Married,Chicago,1
+43,,25,779,Female,Artist,Single,New York,0
+54,40526.463762071384,34,309,Male,Engineer,Married,Austin,0
+43,61947.7244118926,22,804,Male,Doctor,Married,Austin,1
+40,61942.00497385643,18,735,Male,Lawyer,Single,Austin,1
+26,52248.779802228106,2,410,Female,Lawyer,Married,Austin,0
+29,51801.80424077988,10,452,Male,Teacher,Single,San Francisco,0
+18,37150.09173599882,0,401,Female,Artist,Married,San Francisco,0
+18,38945.11504015208,0,490,Male,Artist,Single,Chicago,0
+64,24385.25925312173,41,380,Male,Artist,Divorced,San Francisco,0
+51,46238.72852332504,31,788,Female,Lawyer,Married,New York,1
+49,61786.11934566795,29,387,Male,Teacher,Single,New York,0
+65,,41,493,Female,Engineer,Married,Austin,0
+42,46328.30213141805,22,403,Male,Doctor,Married,New York,0
+57,57375.03248014536,37,395,Male,Engineer,Married,Chicago,0
+62,7160.161357082048,43,722,Female,Lawyer,Single,San Francisco,0
+18,43506.07519402364,0,497,Female,Artist,Divorced,San Francisco,0
+33,43154.564298001045,10,300,Female,Doctor,Divorced,San Francisco,0
+56,72367.52471338074,33,706,Male,Lawyer,Divorced,New York,1
+22,55894.001913821274,1,677,Male,Lawyer,Single,San Francisco,0
+39,57413.83134320911,17,466,Male,Lawyer,Divorced,Austin,0
+46,56634.924664984894,23,808,Female,Doctor,Single,Austin,1
+20,50681.64098498332,0,612,Female,Doctor,Married,Austin,0
+29,72985.47996273695,9,717,Female,Teacher,Married,New York,1
+43,15420.806780523904,20,776,Male,Teacher,Divorced,San Francisco,0
+33,,9,372,Male,Engineer,Single,New York,0
+68,66947.04277459346,45,440,Female,Doctor,Married,San Francisco,0
+54,21629.098202110275,34,561,Male,Doctor,Single,Chicago,0
+39,62568.76780658453,18,639,Female,Doctor,Single,Chicago,1
+46,38582.551381020254,28,607,Male,Teacher,Married,New York,0
+31,51647.238932630615,13,544,Male,Lawyer,Single,Austin,0
+45,,22,814,Female,Artist,Married,New York,0
+22,64387.275148235334,3,636,Male,Teacher,Married,Austin,1
+64,45674.571781646504,41,375,Male,Doctor,Married,San Francisco,0
+66,62686.95284535817,42,474,Female,Teacher,Single,Austin,0
+47,56529.947543965114,24,408,Female,Engineer,Married,Austin,0
+63,38093.11273911742,45,482,Male,Doctor,Single,San Francisco,0
+69,57527.88785593288,49,491,Female,Engineer,Married,Chicago,0
+22,40046.464129809014,0,364,Male,Doctor,Married,San Francisco,0
+29,50961.921407599606,9,773,Female,Teacher,Divorced,New York,1
+33,45401.084577653004,13,399,Male,Lawyer,Divorced,New York,0
+43,63498.677995831604,24,843,Male,Artist,Divorced,New York,1
+43,58104.834061061265,23,427,Female,Engineer,Single,New York,0
+65,49539.17677092886,47,751,Male,Teacher,Single,New York,1
+38,39714.323342665084,17,668,Male,Lawyer,Married,Chicago,0
+56,30965.127652539228,35,342,Female,Teacher,Married,Chicago,0
+53,52034.84628936047,31,718,Female,Engineer,Married,Austin,1
+50,40515.63660272362,26,787,Male,Artist,Married,New York,0
+47,21830.05763639262,24,377,Female,Teacher,Single,San Francisco,0
+54,30049.571885056244,30,569,Female,Doctor,Married,New York,0
+40,74388.12958312576,22,614,Male,Lawyer,Married,Chicago,1
+27,40100.35422515832,7,467,Male,Teacher,Divorced,New York,0
+22,66232.44166265603,1,638,Female,Lawyer,Married,Chicago,0
+53,44650.25409202579,29,492,Female,Doctor,Married,Austin,0
+51,68593.66452741221,33,752,Female,Artist,Married,Austin,1
+69,67507.46026211567,48,582,Male,Artist,Single,Austin,0
+48,,28,635,Male,Doctor,Divorced,Chicago,0
+27,20180.364997885925,3,689,Male,Lawyer,Married,New York,0
+36,21450.192844545196,15,824,Male,Teacher,Married,New York,0
+49,37870.0774406644,26,539,Male,Doctor,Divorced,San Francisco,0
+18,78344.51638336312,0,782,Male,Engineer,Married,Chicago,0
+22,43841.56887616191,0,757,Male,Lawyer,Single,San Francisco,0
+62,52178.65925110182,40,388,Female,Artist,Married,Austin,0
+21,69550.05299305085,0,394,Female,Doctor,Single,New York,0
+33,51654.82044667532,15,751,Male,Artist,Single,Chicago,1
+41,51138.36557781162,18,727,Male,Lawyer,Married,San Francisco,1
+33,59339.9479091772,15,450,Male,Artist,Divorced,San Francisco,0
+19,54334.54633264981,1,813,Female,Doctor,Single,San Francisco,0
+66,48507.99342494772,45,675,Male,Lawyer,Divorced,New York,1
+45,39178.25985203836,27,321,Female,Engineer,Married,New York,0
+49,51177.333362981844,26,612,Female,Doctor,Single,New York,1
+44,66415.99695624711,24,818,Female,Teacher,Married,Chicago,1
+37,76730.06880498081,15,505,Female,Doctor,Divorced,New York,0
+41,54384.14962353365,21,674,Female,Lawyer,Married,Chicago,1
+29,61327.417026439594,11,750,Male,Doctor,Married,San Francisco,1
+67,54045.960607442175,47,478,Male,Engineer,Single,San Francisco,0
+52,48690.05953394596,29,509,Female,Engineer,Married,Austin,0
+50,57713.85617919027,27,799,Male,Teacher,Married,New York,1
+50,,32,763,Female,Artist,Married,San Francisco,0
+68,36704.57245971282,47,423,Female,Lawyer,Single,New York,0
+60,28229.04946530637,40,412,Male,Lawyer,Divorced,Chicago,0
+54,,33,311,Male,Artist,Divorced,San Francisco,0
+29,53174.929149495554,8,425,Male,Engineer,Married,New York,0
+20,63048.07426431847,1,630,Male,Engineer,Single,San Francisco,0
+18,35157.38262716768,0,582,Male,Doctor,Married,San Francisco,0
+50,12671.35216062783,28,439,Female,Teacher,Divorced,New York,0
+57,42358.27014993476,34,700,Male,Teacher,Single,San Francisco,0
+27,,4,396,Male,Teacher,Divorced,San Francisco,0
+60,32565.89774882843,42,816,Male,Doctor,Divorced,San Francisco,0
+61,38658.63606774032,37,368,Female,Teacher,Single,San Francisco,0
+46,63009.25115130497,22,417,Male,Artist,Single,Chicago,0
+30,51171.80104394149,6,358,Female,Doctor,Married,San Francisco,0
+29,55184.331779139764,7,332,Male,Artist,Married,Austin,0
+48,44664.766525841784,25,617,Male,Doctor,Divorced,San Francisco,0
+63,38688.34383562511,45,349,Female,Teacher,Single,New York,0
+19,44556.526558637845,0,788,Male,Artist,Single,Austin,0
+68,57483.20291269538,47,318,Male,Artist,Married,Chicago,0
+67,27630.19682988175,47,496,Female,Artist,Divorced,Austin,0
+52,74752.55389748016,32,749,Male,Doctor,Divorced,Austin,1
+40,58622.87743523604,17,751,Female,Lawyer,Married,Austin,1
+34,41961.79843563927,15,588,Female,Teacher,Single,New York,0
+43,62201.10676829751,21,440,Female,Artist,Married,New York,0
+25,68335.23600609662,1,383,Female,Lawyer,Married,New York,0
+46,45044.92925596343,24,690,Female,Teacher,Married,Chicago,1
+43,46751.22815352408,21,514,Male,Teacher,Married,New York,0
+27,72402.11320209508,6,825,Male,Artist,Single,New York,1
+43,81784.62720377148,21,514,Male,Artist,Married,Austin,0
+51,50441.534863521614,31,702,Female,Doctor,Single,New York,1
+68,32626.784793665385,47,427,Female,Lawyer,Married,San Francisco,0
+58,42940.96767613162,40,776,Female,Lawyer,Divorced,New York,0
+24,65495.23616703801,2,703,Female,Artist,Single,Chicago,0
+21,34546.77055979308,0,328,Male,Teacher,Divorced,Chicago,0
+67,46875.75200361472,49,637,Male,Artist,Married,San Francisco,1
+62,,40,660,Female,Teacher,Married,Chicago,0
+28,36159.27970388499,10,691,Female,Teacher,Married,Chicago,0
+46,66446.51842814115,25,517,Male,Artist,Single,Austin,0
+53,60409.512728065616,33,501,Female,Engineer,Divorced,San Francisco,0
+42,80143.18864287938,24,316,Female,Lawyer,Single,Austin,0
+38,61721.91343786658,19,621,Female,Teacher,Single,Austin,1
+53,35586.65546650942,35,817,Male,Teacher,Married,New York,0
+27,57955.53591363787,5,624,Male,Engineer,Divorced,San Francisco,1
+54,64820.32510273784,30,711,Female,Doctor,Married,New York,1
+26,65592.1822118802,2,617,Male,Engineer,Single,New York,0
+41,38347.36778163895,20,381,Female,Engineer,Married,Austin,0
+52,36554.93446466787,29,773,Female,Teacher,Divorced,Chicago,0
+66,32905.44321336482,45,767,Male,Lawyer,Married,San Francisco,0
+52,74070.979912083,29,724,Female,Engineer,Divorced,Chicago,1
+65,59343.182357630576,41,503,Female,Doctor,Divorced,Austin,0
+53,37681.72063686934,29,686,Male,Artist,Married,Austin,0
+35,51907.83408135681,17,397,Female,Engineer,Single,Austin,0
+66,48144.69029898464,46,644,Female,Engineer,Married,Austin,1
+56,35411.27796551476,37,507,Female,Doctor,Single,Austin,0
+49,50542.75915934904,28,813,Male,Lawyer,Single,Austin,1
+41,52860.429315806585,19,465,Female,Engineer,Married,Chicago,0
+40,78968.79641977849,17,321,Male,Engineer,Single,New York,0
+49,40164.687113505905,27,453,Female,Lawyer,Single,Chicago,0
+54,24359.010137069927,34,738,Female,Doctor,Married,San Francisco,0
+29,34265.693969660344,6,594,Female,Engineer,Married,Chicago,0
+66,36610.28864851667,45,518,Female,Lawyer,Married,Austin,0
+30,43596.09235950657,12,794,Male,Engineer,Single,Chicago,0
+40,,18,529,Male,Artist,Divorced,New York,0
+42,62331.83008728409,22,319,Female,Teacher,Single,San Francisco,0
+52,33259.508554857806,31,447,Female,Artist,Divorced,Chicago,0
+58,50300.26952448845,34,407,Female,Engineer,Married,New York,0
+47,80002.88275283262,23,702,Female,Doctor,Divorced,Chicago,1
+34,58303.524076454356,13,782,Female,Teacher,Married,San Francisco,1
+66,56761.35517568539,45,666,Female,Artist,Married,Chicago,1
+37,77859.7430111774,16,713,Female,Lawyer,Divorced,Austin,1
+65,68684.7434635546,42,608,Female,Doctor,Married,Chicago,1
+42,58476.865510289055,21,433,Male,Artist,Divorced,New York,0
+39,45339.097250832965,17,582,Male,Lawyer,Married,Chicago,0
+30,49659.6668781531,10,372,Male,Engineer,Single,New York,0
+36,48930.4419850069,13,780,Female,Lawyer,Single,San Francisco,1
+66,43978.61678641837,45,651,Female,Artist,Married,Chicago,0
+53,53180.54767824386,34,625,Female,Artist,Married,San Francisco,1
+29,55261.21545571484,10,742,Male,Engineer,Divorced,San Francisco,1
+58,31330.572992626614,38,399,Female,Lawyer,Single,Chicago,0
+36,74480.63749943448,12,358,Male,Lawyer,Divorced,New York,0
+29,56146.962696099225,11,807,Female,Engineer,Married,San Francisco,1
+26,46058.25557074074,8,557,Male,Lawyer,Married,San Francisco,0
+24,,0,712,Male,Engineer,Divorced,Chicago,0
+45,63955.53336737901,22,751,Male,Doctor,Married,Chicago,1
+31,27999.703811211613,8,364,Female,Artist,Single,Chicago,0
+48,48424.089102796315,25,453,Male,Doctor,Divorced,Chicago,0
+69,32212.163377065008,51,565,Female,Teacher,Single,Chicago,0
+36,89855.05731463431,17,378,Female,Teacher,Single,Austin,0
+64,52072.79071652922,46,614,Female,Teacher,Single,Chicago,1
+33,32333.815286007404,11,547,Female,Engineer,Divorced,New York,0
+22,103992.00171046089,1,713,Female,Lawyer,Married,San Francisco,0
+52,41959.72131829416,29,324,Male,Doctor,Single,New York,0
+29,46863.801228856886,10,583,Female,Doctor,Single,New York,0
+42,47948.02640021956,22,748,Female,Doctor,Single,Austin,1
+69,37280.704151464466,49,600,Female,Doctor,Married,Chicago,0
+38,53710.280262442146,17,367,Female,Teacher,Married,San Francisco,0
+53,16838.897504599612,34,306,Female,Doctor,Divorced,New York,0
+40,66288.47574315938,22,436,Male,Lawyer,Married,Chicago,0
+33,33082.92693894169,15,463,Male,Teacher,Divorced,Chicago,0
+56,43770.177165345325,34,382,Female,Doctor,Divorced,Austin,0
+62,61272.79510529244,40,719,Male,Engineer,Divorced,Austin,1
+59,46933.08472540827,41,372,Male,Artist,Divorced,Austin,0
+56,47546.7837935356,36,536,Female,Artist,Divorced,San Francisco,0
+31,34818.838359053436,8,345,Male,Artist,Single,New York,0
+48,81434.72326205675,28,561,Female,Teacher,Married,Austin,0
+22,57972.23573309885,0,475,Male,Doctor,Single,Austin,0
+52,33758.2257759625,31,465,Male,Teacher,Divorced,Austin,0
+40,52672.73669086777,22,669,Male,Lawyer,Married,New York,1
+46,32697.98008023035,24,353,Female,Engineer,Single,New York,0
+60,75836.21440984175,38,718,Male,Engineer,Single,Austin,1
+28,52994.56941062819,5,806,Male,Artist,Divorced,Austin,1
+35,35366.802081394,17,640,Female,Artist,Single,Chicago,0
+64,60463.86103435875,41,426,Female,Artist,Single,Austin,0
+29,45828.8649192753,11,708,Male,Doctor,Single,San Francisco,1
+26,30676.570167162787,3,666,Female,Lawyer,Single,San Francisco,0
+27,55715.69500850315,7,570,Male,Lawyer,Single,Austin,0
+61,55292.62751206841,40,678,Male,Lawyer,Divorced,New York,1
+34,67066.00448851097,13,372,Female,Lawyer,Divorced,Chicago,0
+55,50967.55335376697,37,547,Female,Artist,Single,New York,0
+24,51605.904304378266,5,342,Female,Engineer,Divorced,Austin,0
+63,52401.99554817776,39,676,Male,Artist,Divorced,San Francisco,1
+30,73929.24491760544,8,340,Female,Lawyer,Married,Chicago,0
+57,45348.89715088894,35,469,Male,Artist,Single,New York,0
+59,57041.82453208597,41,511,Female,Lawyer,Divorced,New York,0
+26,59251.18178023418,3,792,Male,Teacher,Divorced,Austin,1
+67,55246.64778846139,48,338,Female,Engineer,Single,Chicago,0
+44,44781.43090910644,24,668,Male,Teacher,Married,San Francisco,0
+19,,0,450,Female,Doctor,Single,Austin,0
+22,48595.13357850724,0,410,Male,Artist,Married,Chicago,0
+46,79388.15540167705,28,779,Female,Doctor,Single,New York,1
+54,43133.54321853041,36,735,Female,Artist,Single,Austin,0
+55,36311.322106216576,33,346,Male,Teacher,Single,New York,0
+36,49906.974628503864,18,665,Female,Lawyer,Single,New York,1
+25,48849.52703856991,7,368,Male,Lawyer,Married,Austin,0
+65,52952.65280252945,47,598,Male,Artist,Married,Austin,0
+62,43138.30096698002,40,595,Female,Lawyer,Divorced,Austin,0
+18,51655.60219899315,0,502,Male,Teacher,Single,Austin,0
+39,51944.10558456817,19,360,Female,Lawyer,Married,Austin,0
+69,63589.845340400076,45,613,Female,Teacher,Married,New York,1
+34,,10,460,Male,Doctor,Married,San Francisco,0
+24,51537.125459473835,6,630,Female,Teacher,Single,San Francisco,1
+42,57745.19569562776,18,827,Male,Engineer,Divorced,Austin,1
+62,63014.82594772276,40,637,Male,Engineer,Married,New York,1
+21,35244.863185601316,1,603,Female,Engineer,Single,San Francisco,0
+53,31215.191601997678,30,802,Female,Artist,Married,San Francisco,0
+23,75432.19444075717,3,637,Male,Artist,Married,San Francisco,1
+48,60561.13156892237,28,849,Male,Artist,Divorced,New York,1
+36,46709.200455058955,14,574,Female,Teacher,Married,Austin,0
+61,50295.52904949697,37,463,Female,Artist,Married,Austin,0
+56,44111.5746000526,33,742,Female,Doctor,Single,Austin,0
+44,53169.21086662328,22,618,Female,Engineer,Single,Chicago,1
+27,35422.44215892968,9,803,Male,Teacher,Divorced,Chicago,0
+43,62602.50477634889,22,686,Female,Engineer,Single,Chicago,1
+36,52631.80097942753,16,793,Male,Artist,Single,New York,1
+56,53174.40644050027,35,789,Male,Teacher,Divorced,San Francisco,1
+20,36590.86425982217,0,372,Female,Lawyer,Married,San Francisco,0
+62,57864.006451589536,40,808,Male,Doctor,Divorced,New York,1
+30,36935.42535280938,8,689,Female,Artist,Single,New York,0
+67,39617.73710136821,46,594,Male,Artist,Divorced,Austin,0
+45,,23,668,Female,Doctor,Married,Austin,0
+37,87609.97849423478,19,848,Male,Doctor,Divorced,Chicago,1
+45,52571.99200032214,23,486,Male,Lawyer,Single,Chicago,0
+25,11467.986804986467,6,744,Female,Artist,Single,New York,0
+58,40362.479249588745,34,662,Female,Artist,Divorced,Chicago,0
+56,60255.93668330861,35,422,Male,Engineer,Married,San Francisco,0
+18,33073.085825238144,0,487,Male,Teacher,Divorced,New York,0
+20,62466.5366171849,0,719,Female,Teacher,Married,New York,0
+30,52382.308621475444,12,551,Male,Engineer,Married,San Francisco,0
+45,64869.907888861635,25,848,Female,Teacher,Divorced,Austin,1
+66,41617.188361235036,43,634,Male,Doctor,Married,Austin,0
+42,40448.24127600926,18,391,Female,Teacher,Single,San Francisco,0
+50,58474.77737426767,27,829,Male,Teacher,Divorced,San Francisco,1
+55,49887.07437541761,33,362,Female,Engineer,Married,Chicago,0
+23,48979.65782320589,0,811,Female,Lawyer,Single,New York,0
+61,73534.54803423595,37,438,Male,Teacher,Divorced,Chicago,0
+62,59062.11390592677,44,484,Female,Teacher,Single,San Francisco,0
+49,20151.155499564084,25,504,Male,Lawyer,Single,Chicago,0
+62,61986.021837745815,41,513,Female,Engineer,Single,San Francisco,0
+64,60484.53200622683,45,555,Female,Lawyer,Married,Chicago,0
+38,67773.66930835148,19,434,Female,Engineer,Divorced,Chicago,0
+33,35904.52370639736,14,387,Male,Doctor,Divorced,Austin,0
+38,,17,506,Female,Engineer,Married,San Francisco,0
+28,51674.45031864772,5,428,Male,Doctor,Divorced,Chicago,0
+54,35635.5222878037,36,302,Female,Doctor,Single,New York,0
+53,64201.49851859871,29,420,Male,Engineer,Divorced,Chicago,0
+52,46376.81001035926,31,684,Male,Artist,Married,Chicago,1
+36,67290.98586878502,17,337,Male,Engineer,Single,New York,0
+37,38857.11822398786,15,640,Female,Teacher,Married,San Francisco,0
+35,28091.21793800907,15,320,Male,Teacher,Single,Austin,0
+64,,40,541,Female,Artist,Single,Austin,0
+58,53478.697738436706,37,754,Male,Doctor,Divorced,Austin,1
+66,41987.06109171632,45,602,Male,Artist,Single,New York,0
+31,4033.146968626592,13,368,Male,Teacher,Married,Chicago,0
+32,55754.73717378155,14,428,Male,Artist,Divorced,San Francisco,0
+48,55684.71035783039,27,495,Female,Engineer,Married,Chicago,0
+18,60307.509178114495,0,439,Male,Artist,Single,Austin,0
+20,44292.61346673834,0,743,Male,Doctor,Married,Chicago,0
+33,43474.22401427139,9,582,Female,Engineer,Married,New York,0
+40,71604.82659202236,22,611,Male,Lawyer,Single,New York,1
+28,26368.929712674257,4,834,Male,Teacher,Divorced,San Francisco,0
+29,46293.2330949854,10,576,Male,Teacher,Married,San Francisco,0
+27,52134.527691977084,3,360,Male,Artist,Single,Austin,0
+49,59090.32745021361,27,618,Female,Engineer,Divorced,San Francisco,1
+33,52546.50773606478,15,351,Female,Lawyer,Divorced,Chicago,0
+25,36170.110423076614,6,452,Male,Engineer,Divorced,New York,0
+55,67514.20922031281,36,610,Female,Teacher,Married,New York,1
+29,50028.61118415361,9,843,Female,Engineer,Married,New York,1
+41,24979.959402629534,21,688,Male,Lawyer,Married,San Francisco,0
+45,53137.649761600915,23,847,Female,Artist,Divorced,New York,1
+25,57129.15306832196,6,476,Male,Doctor,Married,New York,0
+45,79411.15930097172,22,661,Female,Engineer,Single,New York,1
+53,56131.27023305438,34,613,Female,Doctor,Married,Austin,1
+43,27769.61641977317,23,396,Female,Teacher,Married,Austin,0
+25,28296.48063787465,2,512,Male,Artist,Divorced,San Francisco,0
+67,68880.64187297401,49,436,Female,Artist,Married,New York,0
+45,37957.95479976291,27,305,Male,Engineer,Single,San Francisco,0
+45,,21,408,Male,Artist,Divorced,New York,0
+54,65007.663016376486,33,846,Female,Engineer,Single,New York,1
+58,42863.96281677994,38,338,Male,Engineer,Divorced,New York,0
+53,64205.209462394116,32,724,Female,Doctor,Divorced,San Francisco,1
+44,36279.207420058825,21,560,Male,Artist,Married,San Francisco,0
+34,72107.1850049882,14,725,Male,Engineer,Single,New York,1
+26,63080.95560399914,4,386,Female,Doctor,Divorced,Chicago,0
+50,39159.719500979794,31,764,Female,Lawyer,Married,San Francisco,0
+37,25094.142996580384,15,375,Female,Doctor,Divorced,Austin,0
+30,84577.45788131212,7,770,Female,Doctor,Divorced,San Francisco,1
+45,46846.88447010281,25,713,Male,Engineer,Divorced,New York,1
+65,38559.025293864244,42,756,Male,Teacher,Divorced,Chicago,0
+46,70794.62403244249,27,584,Male,Teacher,Divorced,New York,0
+30,64186.397801186606,12,538,Female,Teacher,Divorced,Austin,0
+63,67741.9481496887,45,671,Male,Doctor,Married,San Francisco,1
+52,48522.37583723403,29,794,Female,Engineer,Divorced,San Francisco,1
+23,78215.82035485437,2,344,Male,Artist,Single,New York,0
+35,30340.727291729574,15,700,Female,Doctor,Married,New York,0
+68,41719.257176637184,48,546,Male,Doctor,Single,Austin,0
+22,55848.18133572325,4,749,Male,Engineer,Divorced,Chicago,1
+64,67521.6701635567,40,784,Female,Lawyer,Single,Austin,1
+42,59917.38530787244,20,317,Male,Doctor,Divorced,Chicago,0
+19,48757.01396229814,0,588,Female,Lawyer,Divorced,San Francisco,0
+27,42872.78199140781,8,713,Male,Lawyer,Married,Chicago,0
+47,67602.66287539032,25,534,Male,Teacher,Married,Chicago,0
+67,61465.940199155455,45,715,Female,Engineer,Divorced,San Francisco,1
+62,36882.14310963404,39,798,Female,Lawyer,Married,San Francisco,0
+22,36435.95902905459,4,414,Male,Engineer,Single,San Francisco,0
+50,41817.67768340727,26,533,Male,Teacher,Married,Austin,0
+18,39893.572015709375,0,839,Male,Engineer,Married,San Francisco,0
+35,65447.613688197016,17,310,Male,Doctor,Single,New York,0
+49,56535.98483327027,25,505,Male,Lawyer,Married,San Francisco,0
+64,58366.80860604647,46,546,Male,Engineer,Divorced,San Francisco,0
+66,52875.04455195164,43,426,Female,Artist,Single,San Francisco,0
+28,53581.560730060315,7,446,Female,Engineer,Divorced,Chicago,0
+38,26272.73876989533,16,417,Female,Lawyer,Single,Austin,0
+43,61912.75486527153,20,681,Male,Teacher,Divorced,San Francisco,1
+42,41547.77779112836,22,711,Male,Teacher,Divorced,Austin,0
+39,,20,662,Male,Lawyer,Married,New York,0
+44,42902.40616796999,23,808,Female,Doctor,Divorced,New York,0
+66,52188.07347727514,46,436,Female,Doctor,Married,San Francisco,0
+30,58596.408908659934,8,474,Male,Teacher,Single,New York,0
+50,34867.174512150064,26,588,Male,Teacher,Divorced,Austin,0
+51,53791.238363660035,33,780,Female,Lawyer,Divorced,Chicago,1
+58,43264.96131869215,36,318,Female,Doctor,Single,San Francisco,0
+52,69821.88163814005,29,494,Female,Teacher,Single,New York,0
+18,33280.61895530558,0,629,Male,Doctor,Divorced,Austin,0
+38,34962.25595653919,15,474,Male,Teacher,Single,Austin,0
+65,44606.446729447845,44,748,Male,Engineer,Married,New York,0
+23,36115.34427479242,2,653,Female,Artist,Single,Austin,0
+45,46634.284805196316,26,798,Female,Engineer,Single,Austin,1
+34,42081.7174082643,14,440,Male,Teacher,Divorced,San Francisco,0
+22,51326.18566552719,2,392,Male,Artist,Married,Austin,0
+48,65121.08041736231,27,538,Female,Artist,Single,New York,0
+22,51069.19408526412,1,504,Male,Teacher,Married,San Francisco,0
+55,52435.31841224716,31,732,Female,Teacher,Married,New York,1
+20,34140.1609578185,2,544,Female,Doctor,Married,Chicago,0
+40,47989.10669277306,16,616,Male,Teacher,Divorced,New York,1
+54,43673.68292585904,30,594,Female,Lawyer,Single,New York,0
+54,60224.614454607276,34,581,Male,Teacher,Divorced,San Francisco,0
+27,38531.49525195954,8,316,Female,Lawyer,Single,Austin,0
+27,37090.1661123315,7,370,Female,Teacher,Single,New York,0
+36,54761.43795721023,18,568,Male,Doctor,Divorced,San Francisco,0
+34,79701.54581559409,11,624,Female,Lawyer,Married,Chicago,1
+38,47360.770640380055,17,604,Male,Engineer,Married,San Francisco,1
+31,52523.12609345748,10,750,Male,Lawyer,Single,San Francisco,1
+26,64220.32772532178,8,306,Female,Doctor,Divorced,Austin,0
+63,57648.55847922908,39,613,Male,Lawyer,Married,New York,1
+18,57747.19220573296,0,402,Male,Teacher,Married,Chicago,0
+68,48572.11322122993,47,492,Male,Teacher,Single,San Francisco,0
+62,48863.97225832609,40,828,Male,Doctor,Single,New York,1
+30,38672.77193410207,6,470,Male,Artist,Divorced,New York,0
+21,57295.59881452074,0,836,Male,Teacher,Single,San Francisco,0
+18,56953.31644997964,0,550,Female,Engineer,Married,New York,0
+66,60757.46791540704,48,686,Male,Doctor,Married,San Francisco,1
+57,42678.432941699815,39,506,Female,Lawyer,Married,San Francisco,0
+49,,25,840,Female,Lawyer,Married,San Francisco,0
+51,67000.02182221905,30,715,Male,Engineer,Divorced,Chicago,1
+45,31790.628225856093,25,679,Female,Teacher,Divorced,San Francisco,0
+48,45546.911309638905,26,443,Female,Doctor,Single,Austin,0
+25,67625.35372941257,6,324,Male,Engineer,Single,New York,0
+56,40256.66450220672,35,372,Male,Teacher,Single,Chicago,0
+43,57931.4379077501,24,392,Male,Doctor,Divorced,New York,0
+51,50128.64003003647,30,804,Female,Lawyer,Married,Chicago,1
+20,54963.18982135263,0,635,Female,Doctor,Single,Austin,0
+67,50585.84454038317,47,724,Male,Artist,Married,Chicago,1
+29,61192.56476846407,5,798,Male,Doctor,Single,Chicago,1
+18,34677.242962041826,0,663,Female,Artist,Single,Chicago,0
+61,36300.1513381657,41,498,Female,Doctor,Single,New York,0
+22,71967.70325400284,0,712,Female,Artist,Single,San Francisco,0
+47,,27,638,Female,Lawyer,Single,New York,0
+47,49918.70842060456,29,728,Male,Teacher,Married,San Francisco,1
+34,75728.99063227564,16,438,Female,Artist,Single,New York,0
+65,38423.380294797156,42,841,Female,Artist,Married,Austin,0
+64,42026.211747710644,42,356,Female,Lawyer,Divorced,Austin,0
+40,71862.31267618058,21,531,Female,Artist,Single,Chicago,0
+32,62061.59792935038,11,734,Male,Engineer,Married,Austin,1
+54,74096.40646898387,33,683,Male,Lawyer,Divorced,Chicago,1
+38,57028.33653588507,15,493,Female,Engineer,Divorced,San Francisco,0
+31,34811.808852285874,13,833,Female,Lawyer,Divorced,Austin,0
+19,53353.66036254015,0,817,Male,Artist,Married,San Francisco,0
+28,68030.03807702016,7,484,Male,Engineer,Single,New York,0
+68,48008.97196030742,50,591,Female,Artist,Single,San Francisco,0
+56,45703.49722241422,34,634,Female,Lawyer,Married,New York,1
+55,57257.801044461834,36,415,Male,Artist,Single,San Francisco,0
+51,41607.406016822075,29,348,Male,Engineer,Married,San Francisco,0
+55,54432.50724670251,32,381,Male,Engineer,Single,Austin,0
+67,50952.52197007185,47,632,Male,Artist,Divorced,San Francisco,1
+51,42643.78308877369,31,634,Male,Doctor,Single,Austin,0
+35,64711.05847801121,15,831,Male,Lawyer,Married,Austin,1
+47,59689.81908426161,25,520,Female,Lawyer,Married,Chicago,0
+32,44694.94123570061,11,622,Male,Artist,Divorced,Chicago,0
+44,49775.5810258989,25,302,Male,Doctor,Married,New York,0
+68,45930.86600228245,48,505,Male,Engineer,Single,San Francisco,0
+51,40420.28541135571,28,339,Male,Teacher,Single,New York,0
+69,24525.95491389446,46,358,Female,Teacher,Divorced,San Francisco,0
+55,42742.583834658915,35,806,Female,Artist,Married,Chicago,0
+50,40639.587525265655,30,421,Male,Doctor,Divorced,Chicago,0
+41,51723.36061753039,22,778,Female,Doctor,Single,San Francisco,1
+32,56610.48202292369,12,395,Female,Lawyer,Divorced,San Francisco,0
+47,37967.229952956724,28,713,Female,Engineer,Married,Chicago,0
+59,55602.46042590508,36,534,Female,Doctor,Divorced,Chicago,0
+68,35656.31325699988,48,361,Female,Teacher,Married,New York,0
+34,48120.61226542317,12,555,Female,Engineer,Married,Chicago,0
+22,40963.7134900875,0,647,Male,Engineer,Single,San Francisco,0
+46,61192.60457118566,24,423,Male,Artist,Single,New York,0
+21,51751.596499918975,0,781,Male,Doctor,Single,San Francisco,0
+27,48347.48111252331,8,616,Male,Artist,Married,Austin,1
+34,40621.25359827672,12,803,Male,Doctor,Divorced,New York,0
+27,45067.38037435192,8,347,Female,Lawyer,Married,San Francisco,0
+34,77435.91218489077,12,708,Male,Artist,Single,Chicago,1
+37,42483.73818916181,15,435,Male,Artist,Single,Austin,0
+41,57191.10376394725,22,500,Female,Teacher,Divorced,San Francisco,0
+22,48310.305246684664,1,549,Female,Artist,Single,New York,0
+51,56762.379718610566,29,613,Male,Doctor,Single,San Francisco,1
+23,62554.638090398585,3,667,Female,Teacher,Single,Austin,1
+19,44690.32260018385,0,728,Female,Artist,Divorced,New York,0
+30,60646.601396676844,7,779,Female,Artist,Married,Austin,1
+60,91349.5921550876,39,613,Female,Lawyer,Single,San Francisco,1
+60,58513.09991287557,41,799,Male,Artist,Divorced,Chicago,1
+65,74203.72196899695,44,654,Female,Engineer,Single,Chicago,1
+28,57215.690001599214,10,784,Male,Teacher,Divorced,San Francisco,1
+68,36020.57566703741,50,510,Male,Engineer,Single,San Francisco,0
+64,54135.40995879475,42,343,Female,Teacher,Divorced,San Francisco,0
+40,45044.24305685103,18,840,Female,Lawyer,Single,New York,1
+33,41060.8895402364,13,391,Female,Artist,Married,Austin,0
+48,48911.221843965715,24,564,Male,Artist,Single,Austin,0
+28,47678.748819068715,5,519,Female,Artist,Divorced,Austin,0
+33,34101.126413107086,12,741,Female,Teacher,Single,San Francisco,0
+25,90626.92377079689,7,700,Female,Artist,Married,Austin,1
+21,62118.06371708295,0,699,Female,Engineer,Single,San Francisco,0
+57,53665.85368763172,34,789,Female,Artist,Divorced,New York,1
+21,51348.201668764596,0,784,Male,Lawyer,Divorced,Chicago,0
+42,68035.22929432844,20,769,Female,Engineer,Married,San Francisco,1
+20,81133.5554346424,0,744,Female,Artist,Divorced,San Francisco,0
+49,60276.28058018861,31,568,Female,Artist,Single,Chicago,0
+20,51817.89057176481,2,566,Male,Doctor,Single,Chicago,0
+44,72089.66107966425,22,353,Female,Teacher,Single,New York,0
+46,,27,827,Male,Engineer,Divorced,Austin,0
+49,56529.72214437652,27,819,Male,Doctor,Single,San Francisco,1
+67,,44,358,Female,Lawyer,Single,Austin,0
+68,44202.8129318861,46,339,Female,Teacher,Single,San Francisco,0
+36,,16,536,Female,Engineer,Married,New York,0
+38,43473.79662004972,14,685,Male,Artist,Divorced,Chicago,0
+22,,2,599,Male,Engineer,Divorced,New York,0
+35,60538.26346577268,15,694,Male,Artist,Divorced,Chicago,1
+45,70140.05164118903,26,506,Male,Teacher,Married,Austin,0
+59,44047.53449195732,40,635,Male,Artist,Divorced,Austin,0
+39,73713.87864420145,17,813,Male,Lawyer,Married,New York,1
+38,52776.01745677942,18,477,Female,Artist,Married,Chicago,0
+23,59066.1974384552,4,695,Female,Lawyer,Divorced,New York,1
+18,63554.191374414586,0,670,Male,Teacher,Single,Chicago,0
+22,29275.01559659454,0,617,Female,Teacher,Single,Chicago,0
+58,34926.54211059613,35,668,Female,Engineer,Divorced,Austin,0
+29,34428.642243991315,5,683,Male,Lawyer,Divorced,Austin,0
+43,66083.2577727323,22,361,Male,Lawyer,Married,Chicago,0
+63,45418.15082391158,41,804,Female,Doctor,Divorced,Chicago,1
+51,80413.72959987077,30,538,Male,Doctor,Married,Chicago,0
+66,50050.63962338388,46,494,Male,Doctor,Divorced,Austin,0
+31,27929.39227877748,7,521,Female,Artist,Single,Austin,0
+43,39913.73733942224,22,360,Male,Doctor,Single,San Francisco,0
+62,51760.64544828991,42,428,Female,Lawyer,Divorced,Chicago,0
+44,57727.84796290218,26,455,Female,Artist,Married,San Francisco,0
+26,35227.434078764396,5,677,Female,Teacher,Single,Chicago,0
+43,58527.211577094065,19,736,Female,Engineer,Married,Austin,1
+64,,42,506,Female,Doctor,Divorced,San Francisco,0
+39,40385.786006670045,19,687,Male,Teacher,Divorced,San Francisco,0
+64,79537.35818088721,42,779,Male,Lawyer,Single,New York,1
+47,42010.11464974165,23,639,Male,Engineer,Divorced,Chicago,0
+60,35001.82888676685,41,639,Male,Teacher,Single,Austin,0
+65,27061.66227910189,45,503,Female,Engineer,Married,New York,0
+34,68309.61048038244,13,460,Female,Doctor,Single,New York,0
+43,50343.24316018855,23,839,Male,Lawyer,Single,Chicago,1
+53,,31,691,Female,Engineer,Married,New York,0
+18,27887.923468522593,0,833,Male,Teacher,Single,Chicago,0
+25,44161.23614649555,5,369,Male,Doctor,Single,New York,0
+66,85721.68081514168,45,704,Male,Doctor,Divorced,Chicago,1
+52,17832.687443583236,33,816,Female,Teacher,Married,Austin,0
+69,40525.12398451175,46,419,Female,Teacher,Single,Chicago,0
+32,,14,516,Female,Engineer,Married,Chicago,0
+64,68734.59570604283,45,355,Female,Artist,Married,San Francisco,0
+39,41440.61497578078,19,665,Male,Doctor,Single,Austin,0
+31,53053.92645402959,9,803,Female,Engineer,Divorced,Austin,1
+43,56944.06107041614,19,754,Female,Teacher,Married,Austin,1
+45,52007.57872710901,23,403,Female,Engineer,Single,New York,0
+40,76766.75314413763,19,376,Male,Teacher,Married,San Francisco,0
+31,55096.313081869295,9,529,Male,Lawyer,Divorced,Austin,0
+41,67032.74436444556,23,557,Female,Teacher,Divorced,New York,0
+19,52723.981536434236,0,563,Female,Teacher,Divorced,New York,0
+62,19514.16780910302,41,630,Female,Teacher,Single,New York,0
+43,32113.80869965275,20,481,Female,Artist,Single,San Francisco,0
+31,35226.832260409625,11,849,Male,Teacher,Divorced,New York,0
+68,46260.71214085991,44,326,Female,Doctor,Single,San Francisco,0
+24,81176.21358521587,4,575,Female,Doctor,Divorced,Chicago,0
+20,55436.17194313177,0,598,Female,Engineer,Single,New York,0
+64,48413.17846902852,45,390,Male,Artist,Divorced,Austin,0
+40,68578.36994233471,20,779,Male,Engineer,Married,New York,1
+63,28221.744867473775,40,757,Female,Doctor,Divorced,Chicago,0
+60,42654.572447776416,38,750,Female,Doctor,Divorced,Chicago,0
+64,40440.07019089939,40,664,Female,Lawyer,Single,New York,0
+62,55970.62339202207,41,650,Female,Teacher,Single,Chicago,1
+35,63437.544385309506,12,699,Female,Doctor,Single,San Francisco,1
+55,57072.28328040845,33,552,Male,Engineer,Single,San Francisco,0
