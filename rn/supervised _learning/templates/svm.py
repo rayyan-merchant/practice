@@ -170,3 +170,22 @@ plt.show()
 
 # LOOCV result (single value)
 print(f"Overall LOOCV accuracy: {loo_scores.mean():.4f}")
+
+
+
+
+df['column_name'].fillna(df['column_name'].median(), inplace=True)  # using median
+df['column_name'].fillna(df['column_name'].mean(), inplace=True)    # using mean
+
+df['column_name'].fillna(df['column_name'].mode()[0], inplace=True)  # using mode (most frequent)
+
+
+from sklearn.impute import SimpleImputer
+# For numeric column (mean or median)
+num_imputer = SimpleImputer(strategy='mean')  # or 'median'
+df[['column_name']] = num_imputer.fit_transform(df[['column_name']])
+
+cat_imputer = SimpleImputer(strategy='most_frequent')
+df[['column_name']] = cat_imputer.fit_transform(df[['column_name']])
+
+
