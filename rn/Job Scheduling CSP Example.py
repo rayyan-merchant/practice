@@ -1,4 +1,4 @@
-```python
+
 # Import the OR-Tools CP-SAT solver for constraint satisfaction problems
 from ortools.sat.python import cp_model
 
@@ -86,4 +86,3 @@ if status == cp_model.OPTIMAL or status == cp_model.FEASIBLE:
     print(f"Makespan: {solver.Value(makespan)} hours (Ends at {7 + solver.Value(makespan)}:00 AM)")
 else:
     print("No feasible schedule found.")
-```
